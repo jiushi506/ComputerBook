@@ -2,9 +2,9 @@
 
 免费的编程中文书籍索引
 ============================
-如果这个仓库对你有帮助，欢迎 star。如果这个仓库帮你提升了技能找到了工作，可以请我喝杯咖啡：
+如果这个仓库对你有帮助，欢迎 star。如果这个仓库帮你提升了技能找到了工作，可以请我喝杯咖啡咖☕☕☕：
 
-<p align="center"><img src="[https://dl.deno.js.cn/buy-me-a-coffee-wechat.png](https://github.com/user-attachments/assets/6190a356-cae8-428b-a9a1-62421a9ad3bc)" width="320" height="320" alt="" /></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/6190a356-cae8-428b-a9a1-62421a9ad3bc" width="320" height="320" alt="" /></p>
 
 
 
